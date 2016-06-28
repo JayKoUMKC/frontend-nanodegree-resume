@@ -1,8 +1,8 @@
 //Information in JSON //
 
 var bio ={
-    "name" ="Jay Ko",
-    "role" ="Web developer",
+    "name": "Jay Ko",
+    "role": "Web developer",
     "contacts": {
         "mobile": "123-456-7890",
 	"email": "fake@example.com",
